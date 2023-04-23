@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Maciek on 16/04/2023.
+  
+*/
+
+// Search cities view
+"main_screen_title" = "WeatherApp";
+
+// City weather view
+"city_weather_default_title" = "City weather";
+"weather_current_value" = "%d °C";
+"forecast_weather" = "%@ -> %d °C";
+"weather_current_no_precipitation" = "Currently there are no precipitation";
+"weather_current_precipitation" = "Possible precipitation";
+
+// Error
+"download_error_message" = "Data could not be loaded.";
